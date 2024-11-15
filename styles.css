@@ -336,12 +336,19 @@ header nav {
     max-width: 1024px;
     width: 100%;
     margin: 0 auto;
+    margin-top: 10px;
+}
+
+.tools h2 {
+    line-height: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .tools p {
     line-height: 10px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .tools-grid img {
